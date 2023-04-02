@@ -1,6 +1,7 @@
 {
-  "name": "typescript-fp-glue",
+  "name": "fp-glue",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "main": "dist/index.js",
+  "license": "MIT",
+  "prepare": "tsc"
 }
