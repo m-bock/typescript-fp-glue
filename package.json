@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "license": "MIT",
-  "prepare": "tsc"
+  "prepare": "tsc",
+  "files": [
+    "dist",
+    "src"
+  ]
 }
