@@ -3,6 +3,10 @@
   "version": "1.0.2",
   "main": "dist/index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thought2/typescript-fp-glue.git"
+  },
   "license": "MIT",
   "prepare": "tsc",
   "files": [
